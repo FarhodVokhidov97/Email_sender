@@ -10,7 +10,7 @@ email_receiver = '************' #mail the one you want to send
 
 subject = "Dont forget  to subscribe"
 
-body = """ When you weatach vide please hgis asasd Farhid """
+body = """ Lorem 100 """
 
 
 em = EmailMessage
